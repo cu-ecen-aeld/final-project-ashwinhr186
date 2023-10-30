@@ -1,0 +1,5 @@
+config BR2_PACKAGE_AESD_CHARDRIVER
+	bool "aesd-chardriver"
+	help
+	  This package includes aesd-chardriver module implementation.
+	  Helps to understand buildroot external trees and package builds.
