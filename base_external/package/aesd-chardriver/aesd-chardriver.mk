@@ -1,7 +1,7 @@
 #AESD_CHARDRIVER
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_CHARDRIVER_VERSION = 015bda92de7a4a548663cf5703d70fb826643a1f
+AESD_CHARDRIVER_VERSION = d8857a60eba611e66d92df49aec4db66d771dfc7
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system. 
 # Your site should start with git@github.com:
