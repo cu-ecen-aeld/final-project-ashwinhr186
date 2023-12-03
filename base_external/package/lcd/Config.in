@@ -1,0 +1,5 @@
+config BR2_PACKAGE_LCD
+	bool "lcd"
+	help
+	  This package includes lcd display related modules implementation.
+	  Helps to understand buildroot external trees and package builds.

@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_RPIGPIO
+	bool "python-rpigpio"
+	help
+	  This package includes RPIGPIO python package.
+	  Helps to understand buildroot external trees and package builds.

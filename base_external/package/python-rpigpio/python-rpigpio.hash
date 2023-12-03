@@ -1,0 +1,5 @@
+#md5, sha256 from https://pypi.org/pypi/packaging/json
+md5    22704930a4e674a3d35342bde6d69fe5  RPi.GPIO-0.7.1.tar.gz
+sha256    cd61c4b03c37b62bba4a5acfea9862749c33c618e0295e7e90aa4713fb373b70  RPi.GPIO-0.7.1.tar.gz
+#Locally computed sha256 checksums
+sha256    94b7c5ca64b21123db53f3e94a2b50f7f6c9b2bfad53b052a0e380b3b0ced44d  RPi.GPIO-0.7.1-cp38-cp38-linux_x86_64.whl

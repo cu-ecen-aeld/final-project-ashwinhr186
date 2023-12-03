@@ -1,0 +1,5 @@
+config BR2_PACKAGE_FINGERPRINT
+	bool "fingerprint"
+	help
+	  This package includes fingerprint sample python source code.
+	  Helps to understand buildroot external trees and package builds.

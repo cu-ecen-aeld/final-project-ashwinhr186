@@ -1,0 +1,5 @@
+config BR2_PACKAGE_NUMPAD
+	bool "numpad"
+	help
+	  This package includes numpad python source code.
+	  Helps to understand buildroot external trees and package builds.
