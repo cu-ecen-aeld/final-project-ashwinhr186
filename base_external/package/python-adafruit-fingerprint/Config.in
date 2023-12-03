@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_FINGERPRINT
+	bool "python-adafruit-fingerprint"
+	help
+	  This package includes adafruit-fingerprint sample python source code.
+	  Helps to understand buildroot external trees and package builds.

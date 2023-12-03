@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_FINGERPRINT
+	bool "python-adafruit-circuitpython-fingerprint"
+	help
+	  This package includes adafruit circuitpython fingerprint python source code.
+	  Helps to understand buildroot external trees and package builds.
