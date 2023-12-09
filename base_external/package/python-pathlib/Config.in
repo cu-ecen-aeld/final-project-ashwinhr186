@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_PATHLIB
+	bool "python-pathlib"
+	help
+	  This package includes python pathlib source code.
+	  Helps to understand buildroot external trees and package builds.

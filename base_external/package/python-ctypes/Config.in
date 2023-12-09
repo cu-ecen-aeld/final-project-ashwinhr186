@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_CTYPES
+	bool "python-ctypes"
+	help
+	  This package includes python ctypes source code.
+	  Helps to understand buildroot external trees and package builds.

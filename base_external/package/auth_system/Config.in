@@ -1,0 +1,5 @@
+config BR2_PACKAGE_AUTH_SYSTEM
+	bool "auth_system"
+	help
+	  This package includes auth system python source code which makes use numpad and fingerprint application.
+	  Helps to understand buildroot external trees and package builds.

@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-FINGERPRINT_VERSION = c55ddc1a1ed703d2315959e48add072ec61a5ea4
+FINGERPRINT_VERSION = 5128e27a844b517afafdddcf02ddde838395d813
 FINGERPRINT_SITE = 'git@github.com:cu-ecen-aeld/final-project-vidhyapalaniappan.git'
 FINGERPRINT_SITE_METHOD = git
 FINGERPRINT_GIT_SUBMODULES = YES
