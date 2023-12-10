@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-LCD_VERSION = a78fd6adfa6e10213989c4548865c83d66e45a7f
+LCD_VERSION = 186216f2c9b30911d1acb2e69f5fdef436ef0a98
 LCD_SITE = 'git@github.com:cu-ecen-aeld/final-project-vidhyapalaniappan.git'
 LCD_SITE_METHOD = git
 LCD_GIT_SUBMODULES = YES

@@ -3,7 +3,7 @@
 # auth-system
 ##############################################################
 
-AUTH_SYSTEM_VERSION = fc786a4296ecf53c02fdff42aecbdc9241125ea7
+AUTH_SYSTEM_VERSION = 186216f2c9b30911d1acb2e69f5fdef436ef0a98
 AUTH_SYSTEM_SITE = 'git@github.com:cu-ecen-aeld/final-project-vidhyapalaniappan.git'
 AUTH_SYSTEM_SITE_METHOD = git
 AUTH_SYSTEM_GIT_SUBMODULES = YES
